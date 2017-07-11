@@ -1,0 +1,3 @@
+Hello
+this is saved to kkk.txt file
+Java 
